@@ -1,5 +1,7 @@
 # Chrome OS RTSP Player
 
+https://chrome.google.com/webstore/detail/vxg-media-player/hncknjnnbahamgpjoafdebabmoamcnni?hl=en
+
 This Plugin is designed for Chrome OS. If you are interested in a cross-browser, cross-platform solution we would recommend using VXG Cloud Video or VXG Streaming Server. Both are available for download and testing from our dashboard https://dashboard.videoexpertsgroup.com. 
 
 VXG Server more information - https://www.videoexpertsgroup.com/server/
