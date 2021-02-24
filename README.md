@@ -1,5 +1,7 @@
 # Chrome OS RTSP Player
 
+https://stackoverflow.com/questions/42598475/stream-rtsp-to-html-website
+
 https://www.jsdelivr.com/package/npm/vxgplayer
 
 https://chrome.google.com/webstore/detail/vxg-media-player/hncknjnnbahamgpjoafdebabmoamcnni?hl=en
